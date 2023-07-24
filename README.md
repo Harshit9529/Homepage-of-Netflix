@@ -1,1 +1,2 @@
-# Homepage-of-Netflix
+# Bharat Intern
+  Task-3 : Homepage of Netflix
